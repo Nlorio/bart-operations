@@ -1,9 +1,18 @@
 # BART_operations
-An optimization solution to schedule the daily make and break operations of BART. See final report and presentation for further contextual details, analysis, and results. 
 
-### Final models can be found in the following jupyter notebooks:
-- steadyStateModel_baseline
-- steadyStateModel_all10
-- steadStateModel_green
+Project Repository for BART Make and Break problem. An optimization solution to schedule the daily make and break operations of BART.
+
+## Notebooks
+
+- steadyStateModel_baseline.ipynb:
+  - Determines the 
+
+## Data 
+
+### Pre-Processing NoteBooks
+
+## Presentation
+
+## Report 
 
 
