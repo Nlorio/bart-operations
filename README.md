@@ -34,15 +34,25 @@ breaking costs.
 
 ## Data 
 
-
+- alpha.pkl
+  - Train schedule departure times. 
+  
+- beta.pkl
+  - Train schedule arrival times. 
+  
+ - intervals - intervals.csv
+   - Train line data. Time to travel, miles between stations. 
+   
+ - all_yards_indexes  all_yards_indexes.csv
+   - Yard inventory data
+   
+ - passenger_flow - passenger.csv
+   - Passenger demand data. Week day by hour. Number of passengers. 
 
 ### Pre-Processing NoteBooks
 
-- format_BART_Schedule.ipynb
-  -
-
 - PreProcessData_v3.ipynb
-  - 
+  - Generate departure and arrival times from raw BART schedule data. PreProcess inventory yard event table. Generate data structures. 
 
 ## Presentation
 
